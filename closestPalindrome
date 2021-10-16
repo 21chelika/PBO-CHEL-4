@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas1 {
+public class closestPalindrome {
   public static void main(String[] args) {
     int angka;
     int closestPalindrome;
